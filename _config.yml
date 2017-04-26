@@ -1,0 +1,12 @@
+# Site settings
+title: Svetlana Gaivoronski
+email: s.gaivoronski@gmail.com
+description: > Yet another girl in security  
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://yourdomain.com" # the base hostname & protocol for your site
+twitter_username: SadieSv
+github_username:  svgai
+
+# Build settings
+markdown: kramdown
+theme: slate
